@@ -1,3 +1,5 @@
+Output for this Project-https://6523d81c1e9f466dfd827c56--magenta-bublanina-259789.netlify.app/
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
